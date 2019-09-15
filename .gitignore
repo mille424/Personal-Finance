@@ -1,0 +1,11 @@
+node_modules
+db/*.sqlite
+*.DS_Store
+serverConfig.js
+
+
+# Floobits
+.floo
+.floobit
+.floo
+.flooignore
